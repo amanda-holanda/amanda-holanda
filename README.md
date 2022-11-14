@@ -1,9 +1,9 @@
 ### Oi, eu sou Amanda Holanda👋
 
 **Sobre mim:**
-- :sunflower: Ela/Dela
-- :cactus: Piauiense, nordestina e arretada 
 - :wink: Determinada, criativa, comunicativa, versátil, com uma percepção analítica aguçada e movida por novos desafios
+- :cactus: Piauiense, nordestina e arretada 
+- :sunflower: Ela/Dela
 - :mortar_board: Formada em Direito 
 - :kiss: Ex-Maquiadora Profissional e produtora de conteúdo 
 - :books: Aluna da Laboratoria e em busca da minha primeira oportunidade na área de tecnologia
