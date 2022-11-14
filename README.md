@@ -3,7 +3,7 @@
 **Sobre mim:**
 - :sunflower: Ela/Dela
 - :cactus: Piauiense, nordestina e arretada 
-- :wink: Curiosa, comunicativa, versátil, movida por novos desafios e com uma percepção analítica aguçada
+- :wink: Determinada, criativa, comunicativa, versátil, movida por novos desafios e com uma percepção analítica aguçada
 - :mortar_board: Formada em Direito 
 - :kiss: Ex-Maquiadora Profissional e produtora de conteúdo 
 - :books: Aluna da Laboratoria e em busca da minha primeira oportunidade na área de tecnologia
