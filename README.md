@@ -8,8 +8,7 @@
 - :kiss: Ex-Maquiadora Profissional e produtora de conteúdo 
 - :books: Aluna da Laboratoria e em busca da minha primeira oportunidade na área de tecnologia
 - :nerd_face: Estudante de Desenvolvimento Web 
-
-- 😄 Apaixonada por: tecnologia, natureza, viajar e novas experiências
+- 💓 Apaixonada por: tecnologia, natureza, viajar e novas experiências
 <!--
 **amanda-holanda/amanda-holanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 
