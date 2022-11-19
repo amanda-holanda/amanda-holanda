@@ -5,17 +5,9 @@
 - :cactus: Piauiense, nordestina e arretada 
 - :sunflower: Ela/Dela
 - :mortar_board: Formada em Direito 
-- :books: Aluna da Laboratoria e em busca da minha primeira oportunidade na área de tecnologia
-- :nerd_face: Estudante de Desenvolvimento Web 
+- :books: Estudante de Desenvolvimento Web na Laboratoria 
+- :computer: Em busca da minha primeira oportunidade na área de tecnologia
 - 💓 Apaixonada por: tecnologia, natureza, viagens e novas experiências
-<!--
-**amanda-holanda/amanda-holanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+
 
 
