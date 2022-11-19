@@ -1,12 +1,12 @@
-### Oi, eu sou Amanda Holanda👋
+## Oi, eu sou Amanda Holanda 👋
 
 <div>  
-<a href="https://www.linkedin.com/in/amandaholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:amandaholanda_@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/amandaholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&      logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:amandaholanda_@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
 </div>
 
 **Sobre mim:**
+
 - :wink: Determinada, criativa, comunicativa, versátil, com uma percepção analítica aguçada e movida por novos desafios
 - :cactus: Piauiense, nordestina e arretada 
 - :sunflower: Ela/Dela
@@ -32,7 +32,3 @@
   <img align="center" alt="Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">  
  </div>
   
-
-
-
-
