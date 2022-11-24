@@ -39,7 +39,7 @@ const amanda = {
 
   Objetivo: ['Primeira oportunidade na área de tecnologia'],
 
-  Codigo: [React, Javascript, CSS3, HTML5],
+  Codigo: [React, Javascript, CSS3, HTML5, Firebase],
 
   Ferramentas: [Node.js, Jest, Trello, 'GitHub Projects', Figma]
 
