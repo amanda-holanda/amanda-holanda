@@ -9,8 +9,10 @@
   
 ## 
 
+<img align="right" src="./img/woman-programming.png" alt="woman programming" />
+
 <a href="https://github.com/amanda-holanda"> 
-<img align="right" height="180rem" src="https://github-readme-stats.vercel.app/api?username=amanda-holanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<img align="right" height="180rem" src="https://github-readme-stats.vercel.app/api?username=amanda-holanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 **Um pouco sobre mim:**
 
