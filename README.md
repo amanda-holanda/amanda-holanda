@@ -33,8 +33,8 @@ const amandaHolanda = {
 
   Objetivo: ['Primeira oportunidade na área de tecnologia'],
 
-  TechSkills: [React, Javascript, CSS3, HTML5, Firebase,
-    Node.js, Jest, 'Product Design', UX/UI, 'Metodologias Ágeis'],
+  TechSkills: [React, Javascript, CSS3, HTML5, Node.js, UX/UI,
+    Firebase, Jest, 'Product Design', 'Metodologias Ágeis'],
 
   Ferramentas: [ Jest, Trello, 
     'GitHub Projects', Figma]
