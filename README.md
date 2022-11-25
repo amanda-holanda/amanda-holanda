@@ -6,7 +6,7 @@
 </div>
 
 
-<img align ="right" height="350rem" src="./img/programming.png" alt="woman programming" />
+<img align ="right" height="300rem" src="./img/programming.png" alt="woman programming" />
  
 <div align="left">
   
