@@ -5,7 +5,8 @@
   <a align="right" href="mailto:amandaholanda_@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
 </div>
 
-<img align="right" height="450rem"  src="./img/programming.png" alt="woman programming" />
+
+<img align ="right" height="450rem" src="./img/programming.png" alt="woman programming" />
  
 <div align="left">
   
@@ -41,9 +42,3 @@ const amandaHolanda = {
 ``` 
 </div>
 
-##
-
-
-<a href="https://github.com/amanda-holanda"> 
-    <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=amanda-holanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
