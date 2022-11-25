@@ -36,8 +36,8 @@ const amandaHolanda = {
   TechSkills: [React, Javascript, CSS3, HTML5, Node.js, UX/UI,
     Firebase, Jest, 'Product Design', 'Metodologias Ágeis'],
 
-  Ferramentas: [ Jest, Trello, 
-    'GitHub Projects', Figma]
+  Ferramentas: [ Git, GitHub, 'GitHub Projects', Trello, Figma, 
+    'Visual Studio Code', 'Metro Retro', ]
 
 }
 ``` 
