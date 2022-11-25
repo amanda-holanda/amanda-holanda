@@ -13,33 +13,32 @@
  **Um pouco sobre mim:** 
 
 ```javascript
+
 const amandaHolanda = {
 
-  Pronomes: ['ela', 'dela'],
+    Pronomes: ['ela', 'dela'],
 
-  Origem: ['Teresina-Piauí'],
+    Origem: ['Teresina-Piauí'],
 
-  Sobre: [determinada, criativa, comunicativa, versátil,
-    analítica, 'movida por novos desafios'],
+    Sobre: [determinada, criativa, comunicativa, versátil,
+        analítica, 'movida por novos desafios'],
 
-  Background: ['formada em Direito', 'Maquiadora Profissional'],
+    Background: ['formada em Direito', 'Maquiadora Profissional'],
 
-  Curiosidades: {
-    Adora: [tecnologia, natureza, viagens,'novas experiências']
-   },
+    Atualmente: ['Estudante de Desenvolvimento Front-end na Laboratoria'],
 
-  Atualmente: ['Estudante de Desenvolvimento Front-end na
-    Laboratoria'],
+    TechSkills: [React, Javascript, CSS3, HTML5, Node.js, UX / UI,
+        Firebase, Jest, 'Product Design', 'Metodologias Ágeis'],
 
-  Objetivo: ['Primeira oportunidade na área de tecnologia'],
+    Ferramentas: [Git, GitHub, 'GitHub Projects', Trello, Figma,
+        'Visual Studio Code', 'Metro Retro'],
 
-  TechSkills: [React, Javascript, CSS3, HTML5, Node.js, UX/UI,
-    Firebase, Jest, 'Product Design', 'Metodologias Ágeis'],
-
-  Ferramentas: [ Git, GitHub, 'GitHub Projects', Trello, Figma, 
-    'Visual Studio Code', 'Metro Retro', ]
-
+    Curiosidades: {
+        Adora: [tecnologia, natureza, viagens, 'novas experiências']
+    }
+  
 }
+
 ``` 
 </div>
 
