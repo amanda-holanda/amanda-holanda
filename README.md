@@ -21,8 +21,7 @@ const amandaHolanda = {
   Sobre: [determinada, criativa, comunicativa, versátil,
     analítica, 'movida por novos desafios'],
 
-  Background: ['formada em Direito', 
-    'Maquiadora Profissional'],
+  Background: ['formada em Direito', 'Maquiadora Profissional'],
 
   Curiosidades: {
     Adora: [tecnologia, natureza, viagens,'novas experiências']
