@@ -33,9 +33,7 @@ const amandaHolanda = {
         'Visual Studio Code', 'Metro Retro'],
 
     Curiosidades: {
-        Adora: [tecnologia, natureza, viagens, 'novas experiências'],
-  
-        Background: ['formada em Direito', 'Maquiadora Profissional'],
+        Adora: [tecnologia, natureza, viagens, 'novas experiências'],        
     }
   
 }
