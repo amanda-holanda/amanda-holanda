@@ -25,7 +25,8 @@ const amanda = {
     analítica,
     'movida por novos desafios'],
 
-  Background: ['formada em Direito', 'Maquiadora Profissional'],
+  Background: ['formada em Direito', 
+    'Maquiadora Profissional'],
 
   Curiosidades: {
     Adora: [tecnologia,
@@ -35,13 +36,15 @@ const amanda = {
     ]
   },
 
-  Atualmente: ['Estudante de Desenvolvimento Front-end na Laboratoria'],
+  Atualmente: ['Estudante de Desenvolvimento Front-end 
+    na Laboratoria'],
 
   Objetivo: ['Primeira oportunidade na área de tecnologia'],
 
   Codigo: [React, Javascript, CSS3, HTML5, Firebase],
 
-  Ferramentas: [Node.js, Jest, Trello, 'GitHub Projects', Figma]
+  Ferramentas: [Node.js, Jest, Trello, 
+    'GitHub Projects', Figma]
 
 }
 ```
