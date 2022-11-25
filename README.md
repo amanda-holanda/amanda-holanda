@@ -21,9 +21,7 @@ const amandaHolanda = {
     Origem: ['Teresina-Piauí'],
 
     Sobre: [determinada, criativa, comunicativa, versátil,
-        analítica, 'movida por novos desafios'],
-
-    Background: ['formada em Direito', 'Maquiadora Profissional'],
+        analítica, 'movida por novos desafios'],    
 
     Atualmente: ['Estudante de Desenvolvimento Front-end na
         Laboratoria'],
@@ -35,7 +33,9 @@ const amandaHolanda = {
         'Visual Studio Code', 'Metro Retro'],
 
     Curiosidades: {
-        Adora: [tecnologia, natureza, viagens, 'novas experiências']
+        Adora: [tecnologia, natureza, viagens, 'novas experiências'],
+  
+        Background: ['formada em Direito', 'Maquiadora Profissional'],
     }
   
 }
