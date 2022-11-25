@@ -33,7 +33,7 @@ const amandaHolanda = {
         'Visual Studio Code', 'Metro Retro'],
 
     Curiosidades: {
-        Adora: [tecnologia, natureza, viagens, 'novas experiências'],        
+        Adora: [tecnologia, natureza, viagens, 'novas experiências']        
     }
   
 }
