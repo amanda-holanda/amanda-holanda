@@ -26,7 +26,7 @@ const amandaHolanda = {
     Atualmente: ['Estudante de Desenvolvimento Front-end na
         Laboratoria'],
 
-    TechSkills: [React, Javascript, CSS3, HTML5, Node.js, UX / UI,
+    TechSkills: [React.js, Javascript, CSS3, HTML5, Node.js, UX / UI,
         Firebase, Jest, 'Product Design', 'Metodologias Ágeis'],
 
     Ferramentas: [Git, GitHub, 'GitHub Projects', Trello, Figma,
