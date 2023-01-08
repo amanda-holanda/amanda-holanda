@@ -25,8 +25,7 @@ const amandaHolanda = {
 
     Curiosidades: {
         Adora: [tecnologia, natureza, viagens, 'novas experiências']        
-    }
-  
+    }  
 }
 
 ``` 
