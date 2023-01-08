@@ -4,9 +4,6 @@
   <a align="right" href="https://www.linkedin.com/in/amandaholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a align="right" href="mailto:amandaholanda_@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
 </div>
-
-
-<img align ="right" height="320rem" src="./img/programming.png" alt="woman programming" />
  
 <div align="left">
   
@@ -20,17 +17,11 @@ const amandaHolanda = {
 
     Origem: ['Teresina-Piauí'],
 
-    Sobre: [determinada, criativa, comunicativa, versátil,
-        analítica, 'movida por novos desafios'],    
+    Sobre: ['Desenvolvedora Front-end formada pela Laboratoria em busca da minha primeira oportunidade na área'],        
 
-    Atualmente: ['Estudante de Desenvolvimento Front-end na
-        Laboratoria'],
+    TechSkills: [React.js, Javascript, CSS3, HTML5, Node.js, UX / UI, Firebase, Jest, 'Product Design', 'Metodologias Ágeis'],
 
-    TechSkills: [React.js, Javascript, CSS3, HTML5, Node.js, UX / UI,
-        Firebase, Jest, 'Product Design', 'Metodologias Ágeis'],
-
-    Ferramentas: [Git, GitHub, 'GitHub Projects', Trello, Figma,
-        'Visual Studio Code', 'Metro Retro'],
+    Ferramentas: [Git, GitHub, 'GitHub Projects', Trello, Figma, 'Visual Studio Code', 'Metro Retro'],
 
     Curiosidades: {
         Adora: [tecnologia, natureza, viagens, 'novas experiências']        
