@@ -21,7 +21,8 @@ const amandaHolanda = {
                 UX / UI, Firebase, Jest, 'Product Design', 
                 'Metodologias Ágeis'],
     Ferramentas: [Git, GitHub, 'GitHub Projects', Trello, 
-                  Figma,'Visual Studio Code', 'Metro Retro']    
+                  Figma,'Visual Studio Code', 'Metro Retro'],
+    Destaque: ['Primeiro lugar no Hackaton Talent Fest Brasil 2022']
 }
 
 ``` 
