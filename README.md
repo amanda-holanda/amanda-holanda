@@ -1,5 +1,5 @@
 ## Olá, eu sou Amanda Holanda e seja bem vindo(a) ao meu perfil 👋
-<img align='right' src="img/readme-programming.png" width="380px">
+<img align='right' src="img/readme-programming.png" width="350px">
 
 <div align="left">  
   <a align="right" href="https://www.linkedin.com/in/amandaholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -20,8 +20,8 @@ const amandaHolanda = {
     TechSkills: [React.js, Javascript, CSS3, HTML5, Node.js, 
                 UX / UI, Firebase, Jest, 'Product Design', 
                 'Metodologias Ágeis'],
-    Ferramentas: [Git, GitHub, 'GitHub Projects', Trello, Figma,
-                  'Visual Studio Code', 'Metro Retro']    
+    Ferramentas: [Git, GitHub, 'GitHub Projects', Trello, 
+                  Figma,'Visual Studio Code', 'Metro Retro']    
 }
 
 ``` 
