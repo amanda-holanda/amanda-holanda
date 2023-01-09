@@ -1,4 +1,5 @@
 ## Olá, eu sou Amanda Holanda e seja bem vindo(a) ao meu perfil 👋
+<img align='right' src="https://user-images.githubusercontent.com/101295603/194767152-7f1fd9ae-87b6-4c95-a671-9531366b61ff.png" width="320">
 
 <div align="left">  
   <a align="right" href="https://www.linkedin.com/in/amandaholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -7,22 +8,20 @@
  
 <div align="left">
   
- **Um pouco sobre mim:** 
+ ### **Um pouco sobre mim:** 
 
 ```javascript
 
 const amandaHolanda = {
-
     Pronomes: ['ela', 'dela'],
-
     Origem: ['Teresina-Piauí'],
-
-    Sobre: ['Desenvolvedora Front-end formada pela Laboratoria em busca da minha primeira oportunidade na área'],        
-
-    TechSkills: [React.js, Javascript, CSS3, HTML5, Node.js, UX / UI, Firebase, Jest, 'Product Design', 'Metodologias Ágeis'],
-
-    Ferramentas: [Git, GitHub, 'GitHub Projects', Trello, Figma, 'Visual Studio Code', 'Metro Retro']
-    
+    Sobre: ['Desenvolvedora Front-end formada pela Laboratoria
+           em busca da minha primeira oportunidade na área'],
+    TechSkills: [React.js, Javascript, CSS3, HTML5, Node.js, 
+                UX / UI, Firebase, Jest, 'Product Design', 
+                'Metodologias Ágeis'],
+    Ferramentas: [Git, GitHub, 'GitHub Projects', Trello, Figma,
+                  'Visual Studio Code', 'Metro Retro']    
 }
 
 ``` 
