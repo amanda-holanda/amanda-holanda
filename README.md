@@ -1,5 +1,5 @@
 ## Olá, eu sou Amanda Holanda e seja bem vindo(a) ao meu perfil 👋
-<img align='right' src="https://user-images.githubusercontent.com/101295603/194767152-7f1fd9ae-87b6-4c95-a671-9531366b61ff.png" width="320">
+<img align='right' src="img/readme-programming.png" width="420px">
 
 <div align="left">  
   <a align="right" href="https://www.linkedin.com/in/amandaholanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
