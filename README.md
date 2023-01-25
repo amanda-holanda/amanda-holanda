@@ -13,10 +13,9 @@
 ```javascript
 
 const amandaHolanda = {
-    Pronomes: ['ela', 'dela'],
-    Origem: ['Teresina-Piauí'],
+    Pronomes: ['ela', 'dela'],    
     Sobre: ['Desenvolvedora Front-end formada pela Laboratoria
-           em busca da minha primeira oportunidade na área'],
+           em desenvolvimento web'],
     TechSkills: [React.js, Javascript, CSS3, HTML5, Node.js, 
                 UX / UI, Firebase, Jest, 'Product Design', 
                 'Metodologias Ágeis'],
