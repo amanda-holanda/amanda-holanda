@@ -14,8 +14,7 @@
 
 const amandaHolanda = {
     Pronomes: ['ela', 'dela'],    
-    Sobre: ['Desenvolvedora Front-end formada pela Laboratoria
-           em desenvolvimento web'],
+    Sobre: ['Desenvolvedora Front-end'],
     TechSkills: [React.js, Javascript, CSS3, HTML5, Node.js, 
                 UX / UI, Firebase, Jest, 'Product Design', 
                 'Metodologias Ágeis'],
