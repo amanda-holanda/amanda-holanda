@@ -1,18 +1,29 @@
-## Olá, eu sou Amanda e seja bem vindo(a) ao meu perfil 👋
+# Amanda Holanda 👋
+### **Software Engineer | Data Platform & Infrastructure**
 
- ### **Um pouco sobre mim:** 
+Software Engineer focused on **Data Platform and Infrastructure**. Experienced in scalability, elasticity, and resilience for high-volume data systems.
 
-```javascript
+---
 
-const amandaHolanda = {
-    Pronomes: ['ela', 'dela'],    
-    Sobre: ['Software Engineer'],
-    TechSkills: [React.js, Javascript, CSS3, HTML5, Node.js, 
-                UX / UI, Firebase, Jest, Python],
-    Destaque: ['Primeiro lugar no Hackaton Talent Fest Brasil 2022']
-}
+### 🛠️ Technical Focus
 
-``` 
-</div>
+* **Platform Engineering:** Developing solutions for continuous data processing and large-scale ingestion.
+* **Observability:** Monitoring service health and optimizing alerting using **Grafana and Prometheus**.
+* **Data Quality:** Ensuring end-to-end data integrity and quality standards.
+* **Infrastructure:** Working with **GCP, Docker, and Kubernetes** in high-availability environments.
 
+### 🚀 Tech Stack
 
+* **Languages:** Python, TypeScript, Node.js, SQL.
+* **Cloud & Infra:** GCP, Kubernetes, Docker.
+* **Tools:** Grafana, Prometheus, Metabase.
+
+### 🏆 Highlights
+
+* **1st Place National Hackathon (Raízen Challenge):** Data-driven MVP focused on business viability.
+* **Collaborative Leadership:** Recognized by peers for knowledge sharing and team support.
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
