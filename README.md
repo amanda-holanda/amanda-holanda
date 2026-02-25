@@ -1,29 +1,33 @@
 # Amanda Holanda 👋
-### **Software Engineer | Data Platform & Infrastructure**
+### **Software Engineer | Platform Engineering & Infrastructure**
 
-Software Engineer focused on **Data Platform and Infrastructure**. Experienced in scalability, elasticity, and resilience for high-volume data systems.
+Software Engineer focused on **Platform and Infrastructure**. I develop and support **data extraction platforms** (large-scale crawling) and high-availability environments, with emphasis on scalability, resilience, and observability.
 
 ---
 
-### 🛠️ Technical Focus
+### 🛠️ Technical focus
 
-* **Platform Engineering:** Developing solutions for continuous data processing and large-scale ingestion.
-* **Observability:** Monitoring service health and optimizing alerting using **Grafana and Prometheus**.
-* **Data Quality:** Ensuring end-to-end data integrity and quality standards.
-* **Infrastructure:** Working with **GCP, Docker, and Kubernetes** in high-availability environments.
+* **Platform & data extraction:** Developing and supporting a crawling platform (APIs, workers, orchestration) and operations/execution interfaces, with a scalable architecture for large-scale collection.
+* **Scalability & performance:** System optimization and performance monitoring for high volume of requests and executions.
+* **Observability:** Metrics, alerts, and dashboards with **Grafana** and **Prometheus**; monitoring and incident response in production environments.
+* **Infrastructure:** **GCP**, **Docker**, and **Kubernetes** in high-availability environments.
 
-### 🚀 Tech Stack
+### 🚀 Stack
 
-* **Languages:** Python, TypeScript, Node.js, SQL.
-* **Cloud & Infra:** GCP, Kubernetes, Docker.
-* **Tools:** Grafana, Prometheus, Metabase.
+* **Languages & frameworks:** Python, FastAPI, TypeScript, Node.js, React.
+* **Data & messaging:** PostgreSQL, Kafka, Redis.
+* **Cloud (GCP):** Cloud Storage (GCS), Pub/Sub, Cloud Tasks, BigQuery, Cloud Functions.
+* **Orchestration:** Docker, Kubernetes.
+* **Observability:** Prometheus, Grafana, OpenTelemetry.
+* **Auth & API:** gRPC, OpenFGA, JWT.
+* **Practices:** CI/CD, automated testing (Pytest, Jest), migrations (Alembic).
 
 ### 🏆 Highlights
 
-* **1st Place National Hackathon (Raízen Challenge):** Data-driven MVP focused on business viability.
-* **Collaborative Leadership:** Recognized by peers for knowledge sharing and team support.
+* **1st place — National Hackathon (Raízen Challenge):** Data-driven MVP focused on business viability.
+* **Collaborative leadership:** Recognized by peers for knowledge sharing and team support.
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandaholanda/)
