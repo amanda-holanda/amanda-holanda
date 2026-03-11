@@ -1,7 +1,7 @@
 # Amanda Holanda 👋
-### **Software Engineer | Platform Engineering & Infrastructure**
+### **Software Engineer | Platform Engineering**
 
-Software Engineer focused on **Platform and Infrastructure**. I develop and support **data extraction platforms** (large-scale crawling) and high-availability environments, with emphasis on scalability, resilience, and observability.
+Software Engineer focused on **Platform Engineering**. I develop and support **data extraction platform** (large-scale crawling) and high-availability environments, with emphasis on scalability, resilience, and observability.
 
 ---
 
